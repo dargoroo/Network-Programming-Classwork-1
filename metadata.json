@@ -1,0 +1,6 @@
+{
+  "name": "VortxLab Creations - Automated Worksheet Grading System",
+  "description": "ระบบ Automation สำหรับการปรับรูปแบบใบงานกระดาษสู่ระบบตรวจงานอัตโนมัติ พร้อมระบบคำนวณและประเมินผลคำตอบอัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
